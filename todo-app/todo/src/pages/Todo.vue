@@ -67,18 +67,18 @@ export default {
     return {
       newTask: "",
       tasks: [
-        {
-          title: "Get Bananas",
-          done: false,
-        },
-        {
-          title: "Eat Bananas",
-          done: true,
-        },
-        {
-          title: "Foo Bananas",
-          done: false,
-        },
+        // {
+        //   title: "Get Bananas",
+        //   done: false,
+        // },
+        // {
+        //   title: "Eat Bananas",
+        //   done: true,
+        // },
+        // {
+        //   title: "Foo Bananas",
+        //   done: false,
+        // },
       ],
     };
   },
